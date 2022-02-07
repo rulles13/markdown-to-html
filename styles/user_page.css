@@ -1,0 +1,35 @@
+body{
+  margin: 0 100px;
+  background-color: rgb(54, 54, 59);
+  color: darkgray;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  border-bottom: solid 3px rgb(255, 255, 255);
+}
+
+h2, h2, h3, h4, h5, h6{
+  color: rgb(202, 208, 221);
+}
+
+a {
+  color: cadetblue;
+}
+
+a :visited {
+  color: brown;
+}
+
+footer {
+  display: flex;
+}
+
+.hobbies {
+  background-color: firebrick;
+  color: burlywood;
+  padding: 10px 20px;
+  margin: 10px 0;
+  border-radius: 10px;
+
+}
